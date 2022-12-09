@@ -1,2 +1,4 @@
 # nebula49dev.github.io
-sup fellas
+### 🎉 Official host of the Endrr GDPS! 🎉
+This is my home page for everything that I do. Almost everything can be found here.
+I am the sole developer on the site.
