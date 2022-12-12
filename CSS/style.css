@@ -76,17 +76,4 @@ ul {
   background-color: #000000;
   color: #ffffff;
   margin: 5px;
-  float: left;
-  clear: left;
-  text-align: center;
-}
-
-.DLUL {
-  text-align: center;
-  display: table;
-  margin: 0 auto;
-}
-
-.DL {
-  text-align: center;
 }
